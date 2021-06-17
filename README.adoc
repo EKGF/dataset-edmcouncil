@@ -1,0 +1,11 @@
+= edmcouncil
+// tag::body[]
+
+All RDF datasets from the Enterprise Data Management Council (EDMC or EDM Council)
+
+== Files
+
+* link:dataset/fibo-municipalities.ttl[fibo-municipalities]
+* link:dataset/iso4217-currency-codes.ttl[iso4217-currency-codes]
+
+// end::body[]
